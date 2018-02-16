@@ -4,13 +4,15 @@ This repo is intended to manage players and allow users to claim badge IDs.
 
 ## Dependencies
 - [npm](https://www.npmjs.com/)
-- [parceljs](www.parceljs.com)
+- [parceljs](http://www.parceljs.com)
     - Parcel is used as web application bundle
 
 ## Getting Started
 
 1. Clone the repo  
     `$ git clone https://github.com/IQ-Inc/admin-console.git`
+1. Change directories  
+    `$ cd admin-console`
 1. Install Dependencies  
     `$ npm install`
 1. Start the development server  
