@@ -4,7 +4,7 @@ This repo is intended to manage players and allow users to claim badge IDs.
 
 ## Dependencies
 - [npm](https://www.npmjs.com/)
-- [parceljs](http://www.parceljs.com)
+- [parceljs](https://parceljs.org/)
     - Parcel is used as web application bundle
 
 ## Getting Started
